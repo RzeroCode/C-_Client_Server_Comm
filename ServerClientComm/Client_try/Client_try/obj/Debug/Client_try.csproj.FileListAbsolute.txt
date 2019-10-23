@@ -1,0 +1,9 @@
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\bin\Debug\Client_try.exe.config
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\bin\Debug\Client_try.exe
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\bin\Debug\Client_try.pdb
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\obj\Debug\Client_try.csprojResolveAssemblyReference.cache
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\obj\Debug\Client_try.Form1.resources
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\obj\Debug\Client_try.Properties.Resources.resources
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\obj\Debug\Client_try.csproj.GenerateResource.Cache
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\obj\Debug\Client_try.exe
+c:\users\efehan\documents\visual studio 2015\Projects\Client_try\Client_try\obj\Debug\Client_try.pdb

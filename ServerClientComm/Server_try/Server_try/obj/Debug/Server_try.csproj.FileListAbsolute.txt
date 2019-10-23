@@ -1,0 +1,9 @@
+c:\users\efehan\documents\visual studio 2015\Projects\Server_try\Server_try\bin\Debug\Server_try.exe.config
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\obj\Debug\Server_try.csprojResolveAssemblyReference.cache
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\obj\Debug\Server_try.Form1.resources
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\obj\Debug\Server_try.Properties.Resources.resources
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\obj\Debug\Server_try.csproj.GenerateResource.Cache
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\bin\Debug\Server_try.exe
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\bin\Debug\Server_try.pdb
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\obj\Debug\Server_try.exe
+C:\Users\Efehan\documents\visual studio 2015\Projects\Server_try\Server_try\obj\Debug\Server_try.pdb
